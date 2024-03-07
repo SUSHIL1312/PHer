@@ -1,20 +1,20 @@
 var i = 0;
 
-var message = `<Hi Monika....!! << Apologies, as this text is going to be little long but it contains my deepest feelings & What could be better day  
+var message = `<Hi Monika....!! << This message is going to be little long but it contains my deepest feelings & What could be better day  
 other than Maha Shivratri, the day Bhagwaan Shiva got his Parvati,  <to express my genuine Feeling to you ... << so please please please do read it completely 
 with your beautiful smile.<<
 
 
-It's been three months since we first met & ever since I knew you, day by day I have liked you more & <have fallen for you and believe me this feeling is very 
+It's been three months since we first met <and  ever since I knew you, day by day I have liked you more & <have fallen for you and believe me this feeling is very 
 very special as you are the <first and only girl of my life  whom< I can call my Princess... <<Your presence brightens my days, and you're 
 always on my mind ,thinking how are you doing... << "Abb mujhe raat dinn tmhara hi khayal hai, kya karu pyaar me diwaano jaisa haal hai." << I know that things are 
 little hard for you as you have your upcoming exams.<< I genuinely pray to God that you succeed and achieve your dreams.
 < I want to be with you in every moment of life ... <<
 
-The time we spend together, are the  most beautiful memory to me, <I remember how cute you were looking.<<
+The time we spend together, are the  most beautiful memory to me.< I remember every moment with you. <<
 
 I know ki main Thora Jyada emotional ho raha hoon but main kya karo...<I have feelings for you...<I started to care and love you 
-wo v bahut jada.... << I was really Sad when you told me you are going home for a long  time , thinking When will I meet you again... <<
+wo v bahut jada.... << I was really Sad when you told me you are going home for a long  time ,< thinking When will we meet again... <<
 
 
 
@@ -28,8 +28,8 @@ Either time didn't allow it or I didn't gather the courage to say it not because
 
 I have heard “Falling in love is the most beautiful experience of life ” and I want to be that person who loves you the most througout my life.<<
 
-I am thankful to god for letting u come in my life. <I love my family most and I want you to be in that family. <
-After my mom you are the only girl whom I love most and by Gods grace the next girl whom <I will love is the 
+I am thankful to god for letting u come in my life. <<I love my family most and I want you to be in that family. <
+After my mom you are the only girl whom I love most and by Gods grace the next girl <whom I will love is the 
 one who will call you mom.<<
 
 The only thing which I want between us is unconditional love and support for each other.<I want a relationship which last forever....<< I want the bond and love between us grow deeper by the passing days.
@@ -51,7 +51,7 @@ I will love to hear that from you..<< Beautiful Girl !! <<
 
 
 
-var typingSpeed = 10; // Decreased typing speed
+var typingSpeed = 70; // Decreased typing speed
 typeWriter();
 
 function typeWriter() {
