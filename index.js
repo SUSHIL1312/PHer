@@ -33,7 +33,7 @@ After my mom you are the only girl whom I love most and by Gods grace the next g
 one who will call you mom.<<
 
 The only thing which I want between us is unconditional love and support for each other.<I want a relationship which last forever....<< I want the bond and love between us grow deeper by the passing days.
-<I know the thing which makes any Relation strong is Communication, Mutual Trust, Understanding & Support for each other.<<
+<I think the thing which makes any Relation strong are Communication, Mutual Trust, Understanding & Support for each other.<<
 I waited for someone special to come in my life & that’s you Sweety !! <<
 You are a most special Girl to me, jisse mai Bhagwaan se mangta hu!!  <
 <<
