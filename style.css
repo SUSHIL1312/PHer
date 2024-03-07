@@ -1,0 +1,87 @@
+html,
+body {
+    margin: 0px;
+    height: 100%;
+}
+
+.bg_heart {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background-image: url("https://i.postimg.cc/1XcLrz2X/pexels-stanley-morales-1487076.jpg");
+    background-size: 100vh 100vh;
+    background-size: cover;
+    z-index: -1;
+    opacity: 1;
+    animation: custAnimation 55s infinite ease-in-out;
+    background-attachment: fixed; /* Ensure background image remains fixed */
+}
+
+@keyframes custAnimation {
+    0% {
+        background-image: url("https://i.postimg.cc/J43MsGLQ/people-2561578-1280.jpg");
+    }
+    
+    50% {
+        background-image: url(" https://i.postimg.cc/9Fq4CRKZ/candles-1645551-1280.jpg");
+    }
+    80% {
+        background-image: url("https://i.postimg.cc/zvsfWsL9/rose-6954137-1920.jpg");
+    }
+    100% {
+        background-image: url("https://i.postimg.cc/zvsfWsL9/rose-6954137-1920.jpg");
+    }
+}
+
+
+
+.container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+   
+    font-family: cursive;
+    background-color: rgba(245, 202, 202, 0.8); /* Semi-transparent white background */
+    border-radius: 10px;
+    overflow-y: auto; /* Enable vertical scrolling when content exceeds viewport */
+    max-height: 95%; /* Adjust maximum height of the container */
+
+}
+
+.text-container {
+    text-align: center;
+    color:rgb(136, 8, 8); /* Adjust text color as needed */
+    font-family: cursive;
+    font-size: 18px;
+    line-height: 10;
+    margin-bottom: 20px;
+    
+}
+.text-container p {
+    margin-bottom: 20px; /* Adjust the margin-bottom value to increase or decrease the space between lines */
+}
+
+.btn {
+    background-color: #8b0000; /* Blood Red color */
+    color: white;
+    font-weight: bold; /* Bold font */
+    font-size: 24px; /* Increased font size */
+    padding: 20px 40px; /* Increased padding */
+    text-align: center;
+    cursor: pointer;
+    border: none;
+    border-radius: 12px;
+    transition: background-color 0.3s ease;
+    box-shadow: 0 3px 3px black;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
+.btn:hover {
+    background-color: #6a0000; /* Darker shade on hover */
+}
