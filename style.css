@@ -15,7 +15,7 @@ body {
     background-size: cover;
     z-index: -1;
     opacity: 1;
-    /*animation: custAnimation 55s infinite ease-in-out;*/
+    animation: custAnimation 55s infinite ease-in-out;
     background-attachment: fixed; /* Ensure background image remains fixed */
 }
 
