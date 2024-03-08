@@ -11,7 +11,7 @@ always on my mind ,thinking how are you doing... << "Abb mujhe raat dinn tmhara 
 little hard for you as you have your upcoming exams.<< I genuinely pray to God that you succeed and achieve your dreams.
 < I want to be with you in every moment of life ... <<
 
-The time we spend together, are the  most beautiful memory to me.< I remember every moment with you. <<
+The time we spend together, are the  most beautiful memory to me.< I remember every moment with you (& sorry about your car name). <<
 
 I know ki main Thora Jyada emotional ho raha hoon but main kya karo...<I have feelings for you...<I started to care and love you 
 wo v bahut jada.... << I was really Sad when you told me you are going home for a long  time ,< thinking When will we meet again... <<
@@ -24,7 +24,7 @@ Be my second mother and I will bring the whole world for you that will be in my 
 
 I understand that telling things virtually seems superficial sometimes, but believe me< I wanted to say it in person looking
 into your beautiful eyes. <<
-Either time didn't allow it or I didn't gather the courage to say it not because I am shy but rather I respect your modesty.....<<
+I wanted to say this long back, Either time didn't allow it or I didn't gather the courage to say it not because I am shy but rather I respect your modesty.....<<
 
 I have heard “Falling in love is the most beautiful experience of life ” and I want to be that person who loves you the most througout my life.<<
 
